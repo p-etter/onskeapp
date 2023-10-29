@@ -1,4 +1,4 @@
-# Onskeapp
+# Onskeapp (WIP)
 
 App for å holde på ønskelister
 
